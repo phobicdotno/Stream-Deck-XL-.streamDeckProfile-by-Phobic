@@ -13,5 +13,6 @@ Page 2 - Sketch - Create:
 
 Page 3 - Sketch - Modify:
 
-![image](https://user-images.githubusercontent.com/16991101/228372333-009e623d-7bfd-4e85-9373-af8df5ee75be.png)
+![page3](https://user-images.githubusercontent.com/16991101/228438361-0fa41513-7d57-4022-bacb-3fcc88877d7e.png)
+
 
