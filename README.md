@@ -1,4 +1,4 @@
-# Stream Deck XL .streamDeckProfile by Phobic
+# Stream Deck XL .streamDeckProfile(s) by Phobic
 
 I could not find any "dynamic" Stream Deck XL profiles for Fusion 360 - so I am making my own.
 
